@@ -1,4 +1,6 @@
+#comands venv\Scripts\activate.bat // py manage.py runserver
 # Byte-compiled / optimized / DLL files
+
 __pycache__/
 *.py[cod]
 *$py.class
